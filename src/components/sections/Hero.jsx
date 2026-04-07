@@ -17,6 +17,7 @@ export default function Hero() {
                 <Btn href={`mailto:${PORTFOLIO_DATA.email}`} variant="primary">
                     Get in touch ↗
                 </Btn>
+                <Btn href={PORTFOLIO_DATA.resume} target="_blank" rel="noopener noreferrer">Resume</Btn>
                 <Btn href={PORTFOLIO_DATA.github}>GitHub</Btn>
                 <Btn href={PORTFOLIO_DATA.leetcode}>LeetCode</Btn>
                 <Btn href={PORTFOLIO_DATA.linkedin}>LinkedIn</Btn>
