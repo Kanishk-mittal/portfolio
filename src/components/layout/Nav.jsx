@@ -5,7 +5,7 @@ export default function Nav({ active }) {
         <nav className="sticky top-0 z-50 bg-stone-50/90 backdrop-blur border-b border-stone-200">
             <div className="max-w-4xl mx-auto px-6 h-14 flex items-center justify-between">
                 <span style={{ fontFamily: "'DM Mono', monospace" }} className="text-xs text-stone-400 tracking-widest">
-                    km.dev
+                    .
                 </span>
                 <div className="flex gap-7">
                     {NAV_LINKS.map((link) => (

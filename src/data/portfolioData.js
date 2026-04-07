@@ -7,6 +7,7 @@ export const PORTFOLIO_DATA = {
     email: "kanishkmittal2005@gmail.com",
     github: "https://github.com/Kanishk-mittal",
     leetcode: "https://leetcode.com/u/Kanishk_mittal2005/",
+    linkedin: "https://www.linkedin.com/in/kanishk-mittal-170595229/",
 
     stats: [
         { num: "474+", label: "LeetCode problems solved" },

@@ -19,6 +19,7 @@ export default function Hero() {
                 </Btn>
                 <Btn href={PORTFOLIO_DATA.github}>GitHub</Btn>
                 <Btn href={PORTFOLIO_DATA.leetcode}>LeetCode</Btn>
+                <Btn href={PORTFOLIO_DATA.linkedin}>LinkedIn</Btn>
             </div>
         </section>
     );
