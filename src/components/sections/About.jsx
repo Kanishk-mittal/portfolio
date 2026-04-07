@@ -13,8 +13,8 @@ export default function About() {
                         and scalable.
                     </p>
                     <p>
-                        Currently sub-leading the Cyber Security division at BETA Labs and actively building
-                        Konnect - a self-hosted, end-to-end encrypted university chat platform.
+                        Currently maintaining the backend infrastructure for the college outpass portal,
+                        ensuring high availability, seamless daily operations, and rapid deployment of critical bug fixes.
                     </p>
                     <p>
                         Outside of code I compete in CTFs and grind DSA on LeetCode. Knight-rated, top 5.8%
