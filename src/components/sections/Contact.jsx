@@ -17,8 +17,8 @@ export default function Contact() {
                     <Btn href={`mailto:${PORTFOLIO_DATA.email}`} variant="primary">
                         {PORTFOLIO_DATA.email}
                     </Btn>
-                    <Btn href={PORTFOLIO_DATA.github}>GitHub ↗</Btn>
-                    <Btn href={PORTFOLIO_DATA.leetcode}>LeetCode ↗</Btn>
+                    <Btn href={PORTFOLIO_DATA.whatsapp}>WhatsApp ↗</Btn>
+                    <Btn href={PORTFOLIO_DATA.linkedin}>LinkedIn ↗</Btn>
                 </div>
             </div>
         </section>

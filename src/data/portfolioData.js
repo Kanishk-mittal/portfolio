@@ -9,6 +9,8 @@ export const PORTFOLIO_DATA = {
     leetcode: "https://leetcode.com/u/Kanishk_mittal2005/",
     linkedin: "https://www.linkedin.com/in/kanishk-mittal-170595229/",
     resume: "https://drive.google.com/file/d/1S-GJ-EnR7Dyy9KtUG4CsHiQps87FCVM2/view?usp=sharing",
+    whatsapp: "https://wa.me/917011245992",
+
     stats: [
         { num: "474+", label: "LeetCode problems solved" },
         { num: "1891", label: "Contest rating · Knight badge · top 5.8%" },
